@@ -1,1 +1,1 @@
-This is a simple text file that is hosted on my static storage based website.
+This is a simple text file hosted on my storage based static web app.
